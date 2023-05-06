@@ -1,0 +1,14 @@
+.TakeAway__Container {
+    padding: 20px 10px;
+    display: flex;
+    align-items: center;
+}
+
+
+.TakeAway__Wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+
+}

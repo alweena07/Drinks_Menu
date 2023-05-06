@@ -1,0 +1,37 @@
+.wrapper {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+  }
+  
+  .wrapper img {
+    height: 80px;
+    width: 80px;
+    padding: 0px 50px 0px 18px;
+  }
+  
+  .wrapper h1 {
+    
+    color: #fff;
+    font-family: math;
+    padding-right: 4px;
+  }
+  
+  .wrapper p {
+    padding-right: 23px;
+    color: #fff;
+    font-size: 20px;
+  }
+  
+  .wrapper ul {
+      margin: 16px 0px;
+      padding: 0px 90px 0px 15px;
+  }
+  
+  .wrapper li {
+      list-style-type: none;
+     
+  }
+  
